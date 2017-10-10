@@ -1,0 +1,74 @@
+-Divide the main function into several functions
+-Use data stuctures to collect all the function data
+-In Global section:
+	-declare number of employee
+	-use constants size of arrays
+	-Declare prototype functions
+		-void inputDate
+		-void validateData
+		-void validateData1
+		-void FWE
+		-void TAFWE
+		-void SRinPercent
+		-void Salary
+		-void Letter
+		-void Report
+-Divide data structures into three sections:
+	-struct Personal
+	-struct Compute
+	-struct Employee_Data
+-Inside main
+	-Ask for employee number
+	-Declare an array to employee's number
+	-validate file in and file out
+	-validate number of employee
+	-call the data structure with functions
+-Function inputData
+	-get a file strings from struct Employee_Data
+	-get a file numerics from struct Employee_Data
+-Validate strings data
+-Validate numberics data
+-In FWE function
+	-compute the three years and semesters	
+-In TAFWE
+	-compute the total weighted and average 
+-In SRinPercent
+	-assigned percent value into proper arrays
+	-Calculate salary raise
+	-if FWE < 75, display salary raise = 0%
+	-if FWE > 75 but <= 80, display salary raise = 1%
+	-if FWE > 80 but <= 90, display salary raise = 3%
+	-if FWE > 90 but <= 100, display salary raise = 5%
+	-if FWE > 100, display salary raise = 10%
+-In Salary
+	-compute the salary in dollars and total with dollars
+	-compute salary raise in dollars
+	-if 0%, 90000 * 1
+	-if 1%, 90000 * 0.01
+	-if 3%, 90000 * 0.03
+	-if 5%, 90000 * 0.05
+	-if 10%, 9000 * 0.1
+	-computer salary in dollars with the raise 
+-in Letter
+	-stored letters in proper arrays and struct data
+-in Report
+	-heading 1
+	-heading 2
+	-name of employee
+	-name of supervisor
+	-ID#
+	-Phone number
+	-Address
+	-Display 3 years and 3 semester value
+	-display final semester for each year
+	-dispaly the final weigthed
+	-display average final weighted
+	-current salary
+	-Salary raised in percent
+	-in Dollars
+	-Total in dollar and percent
+-Determine apprciation letter 
+	-if FWE < 70, display letter of something
+	-if FWE >= 90, display letter of appreciation
+	-Else, Display letter of congratulating
+-Display Note:
