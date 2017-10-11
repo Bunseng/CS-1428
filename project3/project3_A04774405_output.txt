@@ -1,0 +1,66 @@
+
+			Texas State University, San Marcos      
+			Annual Employee Evaluation Report Sept. 1, 2015 to August 31, 2016
+***************************************************************************************************************
+            Name of the Employee:  	James Dane
+          Name of the Supervisor:  	John Adam
+                   Employee ID #:  	A-123-4321
+                Telephone Number:  	512-123-4567
+                         Address:  	123 Westmore Dr., Austin TX 78765
+  Fall Semester Evaluation, 2013:  	95
+Spring Semester Evaluation, 2013:  	100
+Summer Semester Evaluation, 2013:  	89
+Final Weight Evaluation for, 2013:  	95.34
+  Fall Semester Evaluation, 2014:  	90
+Spring Semester Evaluation, 2014:  	83
+Summer Semester Evaluation, 2014:  	78
+Final Weight Evaluation for, 2014:  	84.22
+  Fall Semester Evaluation, 2015:  	93
+Spring Semester Evaluation, 2015:  	86
+Summer Semester Evaluation, 2015:  	79
+Final Weight Evaluation for, 2015:  	86.7
+Total final weight Evaluation    :  	266.26
+Average final weight evaluation  :  	88.7533
+Current Salary                   :  	90000
+          Salary Raise in %:  	 3%
+ Salary raise in dollar             :  	2700
+ Salary in dollar with the raise: 	92700
+
+
+Note:    This report for James Dane was prepared according  to the fair practice  of the University.
+         Any discrepancies must be reported by June to her/his supervisor, Paul.  
+
+
+			Texas State University, San Marcos      
+			Annual Employee Evaluation Report Sept. 1, 2015 to August 31, 2016
+***************************************************************************************************************
+            Name of the Employee:  	Sake Dik
+          Name of the Supervisor:  	Lindsey Lohan
+                   Employee ID #:  	B-123-4321
+                Telephone Number:  	512-123-4567
+                         Address:  	456 Eastmore Dr., San Marcos TX 78765
+  Fall Semester Evaluation, 2013:  	92
+Spring Semester Evaluation, 2013:  	100
+Summer Semester Evaluation, 2013:  	89
+Final Weight Evaluation for, 2013:  	94.26
+  Fall Semester Evaluation, 2014:  	90
+Spring Semester Evaluation, 2014:  	83
+Summer Semester Evaluation, 2014:  	78
+Final Weight Evaluation for, 2014:  	84.22
+  Fall Semester Evaluation, 2015:  	93
+Spring Semester Evaluation, 2015:  	86
+Summer Semester Evaluation, 2015:  	49
+Final Weight Evaluation for, 2015:  	78.9
+Total final weight Evaluation    :  	523.64
+Average final weight evaluation  :  	174.547
+Current Salary                   :  	90000
+          Salary Raise in %:  	 10%
+
+ Salary raise in dollar             :  	9000
+ Salary in dollar with the raise: 	99000
+
+
+Note:    This report for Sake Dik was prepared according  to the fair practice  of the University.
+         Any discrepancies must be reported by June to her/his supervisor, Paul.  
+
+
