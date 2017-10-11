@@ -1,0 +1,120 @@
+		Texas State University, San Marcos
+	Annual Employee Evaluation Report Sept. 1, 2015 to August 31, 2016
+
+  Name of the Employee: 	James Dane
+Name of the Supervisor: 	John Adam
+        Employee's ID#: 	A-123-4321
+      Telephone number: 	512-123-4567
+               Address: 	123 Westmore Dr., Austin TX 78765
+
+  Spring Semester Evaluation, 2013:  	99.00
+  Summer Semester Evaluation, 2013:  	95.00
+  Fall Semester Evaluation,   2013:  	99.00
+
+  Spring Semester Evaluation, 2014:  	91.00
+  Summer Semester Evaluation, 2014:  	96.00
+  Fall Semester Evaluation,   2014:  	90.00
+
+  Spring Semester Evaluation, 2015:  	100.00
+  Summer Semester Evaluation, 2015:  	94.00
+  Fall Semester Evaluation,   2015:  	97.00
+
+  Final Semester Evaluation, 2013: 	98.04
+  Final Semester Evaluation, 2014: 	91.83
+  Final Semester Evaluation, 2015: 	97.45
+
+  Total Final Weighted Evaluation: 	287.32
+  Average Final Weighted Evaluation: 	95.77
+  Current Salary 		: 	$90000.00
+  Salary Raised in percent 	: 	5.00%
+  Salary Raised in Dollar	: 	$4500.00
+  Total Salary Raised with Dollar: 	$94500.00
+
+Your average is: 95.77
+Appreciation Letter:  Congratulation, your hard work has paid off. Your first step to success looks great!
+
+
+Note:    This report for James Dane was prepared according  to the fair practice  of the University.
+         Any discrepancies must be reported by James Dane to her/his supervisor, John Adam.
+****************************************************************************************************
+
+		Texas State University, San Marcos
+	Annual Employee Evaluation Report Sept. 1, 2015 to August 31, 2016
+
+  Name of the Employee: 	Sake Dik
+Name of the Supervisor: 	Lindsey Lohan
+        Employee's ID#: 	B-123-4321
+      Telephone number: 	512-123-4567
+               Address: 	456 Eastmore Dr., San Marcos TX 78765
+
+  Spring Semester Evaluation, 2013:  	70.00
+  Summer Semester Evaluation, 2013:  	55.00
+  Fall Semester Evaluation,   2013:  	60.00
+
+  Spring Semester Evaluation, 2014:  	79.00
+  Summer Semester Evaluation, 2014:  	85.00
+  Fall Semester Evaluation,   2014:  	48.00
+
+  Spring Semester Evaluation, 2015:  	65.00
+  Summer Semester Evaluation, 2015:  	87.00
+  Fall Semester Evaluation,   2015:  	66.00
+
+  Final Semester Evaluation, 2013: 	62.70
+  Final Semester Evaluation, 2014: 	68.97
+  Final Semester Evaluation, 2015: 	70.65
+
+  Total Final Weighted Evaluation: 	202.32
+  Average Final Weighted Evaluation: 	67.44
+  Current Salary 		: 	$80000.00
+  Salary Raised in percent 	: 	0.00%
+  Salary Raised in Dollar	: 	$0.00
+  Total Salary Raised with Dollar: 	$80000.00
+
+Your average is: 67.44
+Warning letter:  We are concerned with your grade and we would like  to speak with you as soon as possible.
+
+
+Note:    This report for Sake Dik was prepared according  to the fair practice  of the University.
+         Any discrepancies must be reported by Sake Dik to her/his supervisor, Lindsey Lohan.
+****************************************************************************************************
+
+		Texas State University, San Marcos
+	Annual Employee Evaluation Report Sept. 1, 2015 to August 31, 2016
+
+  Name of the Employee: 	Jake Raph
+Name of the Supervisor: 	Sam Heldman
+        Employee's ID#: 	C-123-4321
+      Telephone number: 	512-123-4567
+               Address: 	789 Southmore Dr., San Antonio TX 78765
+
+  Spring Semester Evaluation, 2013:  	89.00
+  Summer Semester Evaluation, 2013:  	99.00
+  Fall Semester Evaluation,   2013:  	74.00
+
+  Spring Semester Evaluation, 2014:  	96.00
+  Summer Semester Evaluation, 2014:  	86.00
+  Fall Semester Evaluation,   2014:  	90.00
+
+  Spring Semester Evaluation, 2015:  	78.00
+  Summer Semester Evaluation, 2015:  	89.00
+  Fall Semester Evaluation,   2015:  	45.00
+
+  Final Semester Evaluation, 2013: 	85.85
+  Final Semester Evaluation, 2014: 	91.38
+  Final Semester Evaluation, 2015: 	68.43
+
+  Total Final Weighted Evaluation: 	245.66
+  Average Final Weighted Evaluation: 	81.89
+  Current Salary 		: 	$70000.00
+  Salary Raised in percent 	: 	3.00%
+  Salary Raised in Dollar	: 	$2100.00
+  Total Salary Raised with Dollar: 	$72100.00
+
+Your average is: 81.89
+Congratulation:  You're doing perfectly okay at this point. Keep up the good work!
+
+
+Note:    This report for Jake Raph was prepared according  to the fair practice  of the University.
+         Any discrepancies must be reported by Jake Raph to her/his supervisor, Sam Heldman.
+****************************************************************************************************
+
